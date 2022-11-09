@@ -1,0 +1,5 @@
+# Project exclude paths
+/vue/code_unzipped/section-5-8-COMPLETE/dist/
+/vue/code_unzipped/section-5-8-COMPLETE/node_modules/
+/vue/code_unzipped/webpack-example/dist/
+/vue/code_unzipped/webpack-example/node_modules/
